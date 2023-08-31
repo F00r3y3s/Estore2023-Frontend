@@ -18,7 +18,7 @@ const SingleProduct = () => {
     zoomWidth: 600,
     img: "https://m.media-amazon.com/images/I/811uRAkduYL._AC_SX679_.jpg",
   };
-
+  // eslint-disable-next-line
   const [orderedProduct, setOrderedProduct] = useState(true);
   const copyToClipboard = (text) => {
     console.log("text", text);
