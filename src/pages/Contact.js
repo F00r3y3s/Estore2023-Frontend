@@ -18,6 +18,7 @@ const Contact = () => {
               width="600"
               height="450"
               className="border-0 w-100"
+              title="myFrame"
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

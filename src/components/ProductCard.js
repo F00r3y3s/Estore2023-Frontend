@@ -2,7 +2,6 @@ import React from "react";
 import ReactStars from "react-rating-stars-component";
 import { Link, useLocation } from "react-router-dom";
 import wish from "../images/wish.svg";
-import wishlist from "../images/wishlist.svg";
 import prodcompare from "../images/prodcompare.svg";
 import watch from "../images/watch.jpg";
 import watch2 from "../images/watch2.webp";
